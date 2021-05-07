@@ -1,0 +1,212 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+header{
+	background-image: url("../img/fondecran.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 100vh;
+
+}
+
+.sous-header{
+	display: flex;
+	justify-content: space-between; 
+
+}
+
+div.right{
+	display: flex;
+	justify-content: space-between;
+	margin: 60px;
+	float: left;
+
+}
+
+.left{
+	margin: 80px;
+	color: #fff;
+	font-size: 40px;
+}
+
+div .right{
+	color: #fff ;
+}
+
+.right a{
+	color: #fff;
+	text-decoration: none;
+}
+
+.right ul{
+	list-style-type: none;
+	margin: auto 10px;
+}
+
+.right li{
+	display: inline;
+	margin: 30px;
+}
+
+.carre{
+	width: 450px;
+	border: 1px solid #fff;
+	padding: 10px;
+	margin-left: 80px;
+	margin-top: 100px;
+}
+
+.carre p{
+	font-size: 55px ;
+	text-align: justify;
+	color: #fff;
+	padding: 15px;
+}
+
+.left1{
+	margin-top:70px;
+	margin-left: 80px;
+}
+
+.slider{
+	display: flex;
+	position: relative;
+}
+
+.right1{
+	position: absolute;
+	width: 450px;
+	height: 300px;
+	text-align:justify;
+	left: 45%;
+	background-color: #fff;
+	font-size: 1.2em;
+	font-family: verdana;
+	top: 40%;
+	padding: 50px;
+}
+
+.maj{
+	font-size: 40px;
+	font-family: verdana;
+}
+
+.right1 p{
+	margin-top: 40px;
+}
+
+.bouton{
+	display: flex;
+	margin-top: 70px;
+	justify-content: space-between;
+	font-size: 40px;
+	font-family:verdana;
+
+}	
+
+.bouton a{
+	border: 1px solid black;
+	font-size: 15px;
+	text-decoration: none;
+	color: #000;
+	padding: 7px;
+	padding-left: 20px;
+	text-align: center;
+	padding-right: 20px;
+}
+
+.icon{
+	position: relative;
+}
+
+.icon p{
+	position: absolute;
+	color: #fff;
+	margin-top: 300px;
+	margin-left: 30px;
+	font-size: 50px;
+	font-family: bold;
+}
+
+.left2{
+	margin-left: 80px;
+	font-size: 40px;
+	margin-top: 30px;
+}
+
+.right2{
+	margin-right: 25px;
+	margin-top: 20px;
+}
+
+.art1{
+	display: flex;
+	justify-content: space-between;
+	margin-top: 50px;
+	margin-left: 80px;
+	margin-right: 25px;
+}
+
+footer{
+	background-color: #000;
+	margin-top: 50px;
+	height: 150px;
+}
+
+.left3{
+	color: #fff;
+	
+	margin-left: 80px;
+	
+}
+.ko{
+	padding-top: 50px;
+}
+
+.menu{
+	margin-top: 30px;
+}
+
+.menu ul{
+	list-style-type: none;
+	margin: auto 10px;
+}
+
+.menu li{
+	display: inline;
+	margin: 30px;
+	margin-left: -8px;
+}
+
+.footer{
+	display: flex;
+	padding-right: 50px;
+	justify-content: space-around;
+}
+
+.menu1{
+	margin-top: 50px;
+}
+
+.menu1 ul{
+	list-style-type: none;
+	margin: auto 10px;
+}
+
+.menu1 li{
+	display: inline;
+	margin: 30px;
+	margin-right: -8px;
+}
+
+.ko1{
+	margin-right: 2px;
+	color: #fff;
+	margin-top: 20px;
+}
+
+
+
+	
